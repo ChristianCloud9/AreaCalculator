@@ -64,7 +64,7 @@ namespace AreaCalculator
             
         }
 
-        private static void TriangleArea()
+        private static void TriangleArea()      // Method for triangle equation
         {
             double triangleArea;
             double height;
